@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <!-- Site made with Mobirise Website Builder v4.6.7, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.6.7, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo-vertical-1000x700-75x107.png" type="image/x-icon">
+  <meta name="description" content="">
+  <title>Home</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+  <section class="menu cid-qVss0QIp9K" once="menu" id="menu2-6">
+
+    
+
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="https://mobirise.com">
+                        <img src="assets/images/logo-vertical-1000x700-75x107.png" alt="Mobirise" title="" style="height: 5.9rem;">
+                    </a>
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-4" href="https://mobirise.com">
+                        MOBIRISE
+                    </a></span>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item dropdown">
+                    <a class="nav-link link dropdown-toggle text-primary display-7" href="https://mobirise.com" data-toggle="dropdown-submenu" aria-expanded="false"><span class="mbri-home mbr-iconfont mbr-iconfont-btn"></span>
+                        Nuestro Colegio</a><div class="dropdown-menu"><a class="dropdown-item text-primary display-7" href="https://mobirise.com">Misión y Visión<br></a><a class="dropdown-item text-primary display-7" href="https://mobirise.com" aria-expanded="false">Principios</a><a class="dropdown-item text-primary display-7" href="https://mobirise.com" aria-expanded="false">Historia</a><a class="dropdown-item text-primary display-7" href="https://mobirise.com" aria-expanded="false">Infraestructura</a></div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link text-primary display-7" href="https://mobirise.com"><span class="mbri-letter mbr-iconfont mbr-iconfont-btn"></span>
+                        Contáctenos</a>
+                </li></ul>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-danger display-4" href="Login.php">INGRESAR</a></div>
+        </div>
+    </nav>
+</section>
+
+<section class="engine"><a href="https://mobirise.ws/b">best web site creator</a></section><section class="carousel slide cid-qU9oWdI71a" data-interval="false" id="slider1-2">
+
+    
+
+    <div class="full-screen"><div class="mbr-slider slide carousel" data-pause="true" data-keyboard="false" data-ride="carousel" data-interval="2000"><ol class="carousel-indicators"><li data-app-prevent-settings="" data-target="#slider1-2" class=" active" data-slide-to="0"></li><li data-app-prevent-settings="" data-target="#slider1-2" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider1-2" data-slide-to="2"></li></ol><div class="carousel-inner" role="listbox"><div class="carousel-item slider-fullscreen-image active" data-bg-video-slide="false" style="background-image: url(assets/images/20160910-193012-2000x1125.jpg);"><div class="container container-slide"><div class="image_wrapper"><div class="mbr-overlay" style="opacity: 0.3;"></div><img src="assets/images/20160910-193012-2000x1125.jpg"><div class="carousel-caption justify-content-center"><div class="col-10 align-center"><h2 class="mbr-fonts-style display-1">COLEGIO PRIVADO</h2><p class="lead mbr-text mbr-fonts-style display-5">CALIDAD EN LA ENSEÑANZA EDUCATIVA</p></div></div></div></div></div><div class="carousel-item slider-fullscreen-image" data-bg-video-slide="false" style="background-image: url(assets/images/20160819-110533-2000x1125.jpg);"><div class="container container-slide"><div class="image_wrapper"><div class="mbr-overlay"></div><img src="assets/images/20160819-110533-2000x1125.jpg"><div class="carousel-caption justify-content-center"><div class="col-10 align-left"><h2 class="mbr-fonts-style display-1"></h2><p class="lead mbr-text mbr-fonts-style display-5">DOCENTES CAPACITADOS</p></div></div></div></div></div><div class="carousel-item slider-fullscreen-image" data-bg-video-slide="false" style="background-image: url(assets/images/20160907-114853-2000x1125.jpg);"><div class="container container-slide"><div class="image_wrapper"><div class="mbr-overlay"></div><img src="assets/images/20160907-114853-2000x1125.jpg"><div class="carousel-caption justify-content-center"><div class="col-10 align-right"><h2 class="mbr-fonts-style display-1"></h2><p class="lead mbr-text mbr-fonts-style display-5">LAS MEJORES PRÁCTICAS</p></div></div></div></div></div></div><a data-app-prevent-settings="" class="carousel-control carousel-control-prev" role="button" data-slide="prev" href="#slider1-2"><span aria-hidden="true" class="mbri-left mbr-iconfont"></span><span class="sr-only">Previous</span></a><a data-app-prevent-settings="" class="carousel-control carousel-control-next" role="button" data-slide="next" href="#slider1-2"><span aria-hidden="true" class="mbri-right mbr-iconfont"></span><span class="sr-only">Next</span></a></div></div>
+
+</section>
+
+<section class="features1 cid-qWoGiXVBTy" id="features1-c">
+    
+    
+
+    
+    <div class="container">
+        <div class="media-container-row">
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-img pb-3">
+                    <span class="mbri-bootstrap mbr-iconfont"></span>
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title py-3 mbr-fonts-style display-5">
+                        No Coding
+                    </h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
+                    </p>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-img pb-3">
+                    <span class="mbri-touch mbr-iconfont"></span>
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title py-3 mbr-fonts-style display-5">
+                        Mobile Friendly
+                    </h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.
+                    </p>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-img pb-3">
+                    <span class="mbri-responsive mbr-iconfont"></span>
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title py-3 mbr-fonts-style display-5">
+                        Unique Styles
+                    </h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
+                    </p>
+                </div>
+            </div>
+
+            
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="features2 cid-qVsvJ9oY7r" id="features2-7">
+
+    
+
+    
+    
+    <div class="container">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/01.jpg" alt="Mobirise">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title pb-3 mbr-fonts-style display-7">
+                            No Coding
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like. <a href="http://mobirise.com">Learn more...</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/02.jpg" alt="Mobirise">
+                    </div>
+                    <div class="card-box ">
+                        <h4 class="card-title pb-3 mbr-fonts-style display-7">
+                            Mobile Friendly
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site. <a href="http://mobirise.com">Learn more...</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/03.jpg" alt="Mobirise">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title pb-3 mbr-fonts-style display-7">
+                            Unique Styles
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible. <a href="http://mobirise.com">Learn more...</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features2 cid-qVsA1rk2t6" id="features2-a">
+
+    
+
+    
+    
+    <div class="container">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/01.jpg" alt="Mobirise">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title pb-3 mbr-fonts-style display-7">
+                            No Coding
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like. <a href="http://mobirise.com">Learn more...</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/02.jpg" alt="Mobirise">
+                    </div>
+                    <div class="card-box ">
+                        <h4 class="card-title pb-3 mbr-fonts-style display-7">
+                            Mobile Friendly
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site. <a href="http://mobirise.com">Learn more...</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/03.jpg" alt="Mobirise">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title pb-3 mbr-fonts-style display-7">
+                            Unique Styles
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible. <a href="http://mobirise.com">Learn more...</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="cid-qVsyD0agPh" id="footer2-8">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row content mbr-white">
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <p class="mbr-text">
+                    <strong>Address</strong>
+                    <br>
+                    <br>1234 Street Name
+                    <br>City, AA 99999
+                    <br>
+                    <br>
+                    <br><strong>Contacts</strong>
+                    <br>
+                    <br>Email: support@mobirise.com
+                    <br>Phone: +1 (0) 000 0000 001
+                    <br>Fax: +1 (0) 000 0000 002
+                </p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <p class="mbr-text">
+                    <strong>Links</strong>
+                    <br>
+                    <br><a class="text-primary" href="https://mobirise.com/">Website builder</a>
+                    <br><a class="text-primary" href="https://mobirise.com/mobirise-free-win.zip">Download for Windows</a>
+                    <br><a class="text-primary" href="https: //mobirise.com/mobirise-free-mac.zip">Download for Mac</a>
+                    <br>
+                    <br><strong>Feedback</strong>
+                    <br>
+                    <br>Please send us your ideas, bug reports, suggestions! Any feedback would be appreciated.
+                </p>
+            </div>
+            <div class="col-12 col-md-6">
+                <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0Dx_boXQiwvdz8sJHoYeZNVTdoWONYkU&amp;q=place_id:ChIJn6wOs6lZwokRLKy1iqRcoKw" allowfullscreen=""></iframe></div>
+            </div>
+        </div>
+        <div class="footer-lower">
+            <div class="media-container-row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white">
+                <div class="col-sm-6 copyright">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        © Copyright 2017 Mobirise - All Rights Reserved
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <div class="social-list align-right">
+                        <div class="soc-item">
+                            <a href="https://twitter.com/mobirise" target="_blank">
+                                <span class="socicon-twitter socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.facebook.com/pages/Mobirise/1616226671953247" target="_blank">
+                                <span class="socicon-facebook socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.youtube.com/c/mobirise" target="_blank">
+                                <span class="socicon-youtube socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://instagram.com/mobirise" target="_blank">
+                                <span class="socicon-instagram socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://plus.google.com/u/0/+Mobirise" target="_blank">
+                                <span class="socicon-googleplus socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.behance.net/Mobirise" target="_blank">
+                                <span class="socicon-behance socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/ytplayer/jquery.mb.ytplayer.min.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <script src="assets/slidervideo/script.js"></script>
+  
+  
+</body>
+</html>
