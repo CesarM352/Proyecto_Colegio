@@ -3,88 +3,74 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Login/Registration Form Transition</title>
+  <title>Login</title>
   
-  
-  <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Open+Sans'>
+  <link href="css/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="css/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
 
-      <link rel="stylesheet" href="css/style.css">
+<style>
+/* Para centrar las columnas del formulario*/
+.col-center{
+    float: none;
+    margin: 0 auto;
+}
 
-  
+/*Para agregar iconos a los cuadros de texto*/
+.form-control-feedback {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+.form-control {
+  padding-left: 30px!important;
+}
+</style>
 </head>
 
-<body>
-
-  <!--<p class="tip">Click on button in image container</p>-->
-  <p><br></p>
-
-<form action="Comprueba_login.php" method="post">
-<div class="cont">
-  <div class="form sign-in">
-    <p><br><br></p>
-    <h2>BIENVENIDO</h2>
-    <label>
-      <span>Usuario</span>
-      <input type="text" name="usuario"/>
-    </label>
-    <label>
-      <span>Contraseña</span>
-      <input type="password" name="password"/>
-    </label>
-    <!--<p class="forgot-pass">Forgot password?</p>
-    <input type="submit" class="submit" name="enviar" value="Entrar">-->
-    <button type="submit" class="submit" name="enviar">Sign Up</button>
-  </div>
-  <div class="sub-cont">
-    <div class="img">
-    <img src="Imagenes/Administracion.png" width="250" height="500">
-      <!--<div class="img__text m--up">
-        <h2>New here?</h2>
-        <p>Sign up and discover great amount of new opportunities!</p>
+<body class="container">
+  <p><br><br></p>
+  <form action="Comprueba_login.php" method="post">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-2">
+        </div>
+        <div class="col-sm-4" style="background-color:#2E668A;">
+          <p><br><br></p>
+          <h2 class="text-warning" align="center"><strong>BIENVENIDO</strong></h2>
+          <br>
+          <div align="center">
+            <label class="text-warning" for="usuario"><strong>USUARIO</strong></label>
+          </div>
+          <div class="col-center form-group has-feedback col-md-7">
+            <i class="fa fa-user form-control-feedback"></i>
+            <input type="text" class="form-control" id="usuario" name="usuario">
+          </div>
+          <br>
+          <div align="center">
+            <label class="text-warning" for="contraseña"><strong>CONTRASEÑA</strong></label>
+          </div>
+          <div class="col-center form-group has-feedback col-md-7">
+            <i class="fa fa-lock form-control-feedback"></i>
+            <input type="password" class="form-control" id="contraseña" name="password">
+          </div>
+          <br>
+          <div class="form-group" align="center">
+          <button type="submit" class="btn btn-primary" name="enviar">INGRESAR</button>
+          </div>
+          </div>
+          <div class="form-group has-feedback">
+  
+        <div class="col-sm-4">
+          <div class="img">
+            <img src="Imagenes/Administracion.png" width="400" height="450">
+          </div>
+        </div>
+        <div class="col-sm-2">
+        </div>
       </div>
-      <div class="img__text m--in">
-        <h2>One of us?</h2>
-        <p>If you already has an account, just sign in. We've missed you!</p>
-      </div>-->
-      <!--<div class="img__btn">
-        <span class="m--up">Sign Up</span>
-        <span class="m--in">Sign In</span>
-      </div>-->
     </div>
-    <!--<div class="form sign-up">
-      <h2>Time to feel like home,</h2>
-      <label>
-        <span>Name</span>
-        <input type="text" />
-      </label>
-      <label>
-        <span>Usuario</span>
-        <input type="email" />
-      </label>
-      <label>
-        <span>Password</span>
-        <input type="password" />
-      </label>
-      <button type="button" class="submit">Sign Up</button>
-      <button type="button" class="fb-btn">Join with <span>facebook</span></button>
-    </div>-->
-  </div>
-</div>
-
-<!--<a href="https://dribbble.com/shots/3306190-Login-Registration-form" target="_blank" class="icon-link">
-  <img src="http://icons.iconarchive.com/icons/uiconstock/socialmedia/256/Dribbble-icon.png">
-</a>
-<a href="https://twitter.com/NikolayTalanov" target="_blank" class="icon-link icon-link--twitter">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png">
-</a>-->
-  
-  
-
-    <script  src="js/index.js"></script>
-
-
-
-
+  </form>
 </body>
-
 </html>

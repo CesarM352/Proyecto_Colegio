@@ -9,9 +9,9 @@
 
 <?php
 try{
-    $base=new PDO("mysql::host=localhost; dbname=biblioteca", "root", "");
+    $base=new PDO("mysql::host=localhost; dbname=colegio", "root", "");
     $base->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-    $sql="SELECT * FROM empleado WHERE usua_emp= :usuario AND pass_emp= :password";
+    $sql="SELECT * FROM usuarios WHERE usuario= :usuario AND password= :password";
     $resultado=$base->prepare($sql);
 
     $usuario=htmlentities(addslashes($_POST["usuario"]));
