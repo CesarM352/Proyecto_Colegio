@@ -2,31 +2,16 @@
 <html lang="en" >
 
 <head>
+
   <meta charset="UTF-8">
   <title>Login</title>
   
   <link href="css/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="css/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+  <!--Para centrar columnas y agregar iconos a los cuadros de texto-->
+  <link href="css/login.css" rel="stylesheet" type="text/css">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
 
-<style>
-/* Para centrar las columnas del formulario*/
-.col-center{
-    float: none;
-    margin: 0 auto;
-}
-
-/*Para agregar iconos a los cuadros de texto*/
-.form-control-feedback {
-  position: absolute;
-  padding: 10px;
-  pointer-events: none;
-}
-
-.form-control {
-  padding-left: 30px!important;
-}
-</style>
 </head>
 
 <body class="container">
@@ -34,9 +19,9 @@
   <form action="Comprueba_login.php" method="post">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-2">
+        <div class="col-2 col-sm-2">
         </div>
-        <div class="col-sm-4" style="background-color:#2E668A;">
+        <div class="col-4 col-sm-4" style="background-color:#2E668A;">
           <p><br><br></p>
           <h2 class="text-warning" align="center"><strong>BIENVENIDO</strong></h2>
           <br>
@@ -61,13 +46,12 @@
           </div>
           </div>
           <div class="form-group has-feedback">
-  
-        <div class="col-sm-4">
+        <div class="col-4 col-sm-4">
           <div class="img">
-            <img src="Imagenes/Administracion.png" width="400" height="450">
+            <img src="img/Administracion.png" width="400" height="450">
           </div>
         </div>
-        <div class="col-sm-2">
+        <div class="col-4 col-sm-2">
         </div>
       </div>
     </div>

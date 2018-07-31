@@ -1,0 +1,16 @@
+/* Para centrar las columnas del formulario*/
+.col-center{
+    float: none;
+    margin: 0 auto;
+}
+
+/*Para agregar iconos a los cuadros de texto*/
+.form-control-feedback {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+.form-control {
+  padding-left: 30px!important;
+}

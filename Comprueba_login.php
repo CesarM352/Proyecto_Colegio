@@ -9,8 +9,8 @@
 
 <?php
 try{
-    $base=new PDO("mysql::host=localhost; dbname=colegio", "root", "");
-    $base->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    require_once('Conexion_DB.php');
+
     $sql="SELECT * FROM usuarios WHERE usuario= :usuario AND password= :password";
     $resultado=$base->prepare($sql);
 
@@ -19,13 +19,17 @@ try{
 
     $resultado->bindvalue(":usuario", $usuario);
     $resultado->bindvalue(":password", $password);
+    
     $resultado->execute();
-
+    
     $numero_registro=$resultado->rowCount();
 
     if ($numero_registro!=0)
     {
-        echo "<h2> Adelante!! </h2>";
+        //Iniciar sesion con el usuario logueado
+        session_start();
+        $_SESSION["usuario"]=$_POST["usuario"];
+        header("location:Principal.php");
     }else{
         header("location:login.php");
     }
