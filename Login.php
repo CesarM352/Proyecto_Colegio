@@ -14,8 +14,8 @@
 
 </head>
 
-<body class="container">
-  <p><br><br></p>
+<body class="container" style="background-color:#1B2F62;">
+  <br><br>
   <form action="Comprueba_login.php" method="post">
     <div class="container-fluid">
       <div class="row">
@@ -42,16 +42,15 @@
           </div>
           <br>
           <div class="form-group" align="center">
-          <button type="submit" class="btn btn-primary" name="enviar">INGRESAR</button>
-          </div>
-          </div>
-          <div class="form-group has-feedback">
-        <div class="col-4 col-sm-4">
-          <div class="img">
-            <img src="img/Administracion.png" width="400" height="450">
+            <button type="submit" class="btn btn-primary" name="enviar">INGRESAR</button>
           </div>
         </div>
-        <div class="col-4 col-sm-2">
+        <div class="col-4 col-sm-4" style="background-color:white;">
+          <div class="img">
+            <img src="img/Administracion.png" width="350" height="450">
+          </div>
+        </div>
+        <div class="col-2 col-sm-2">
         </div>
       </div>
     </div>
