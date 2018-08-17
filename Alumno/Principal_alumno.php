@@ -29,7 +29,7 @@
         }
         //Para obtener el nombre del usuario logueado
         try{
-            require_once('../Conexion_DB.php');
+            require_once('../Conexion/Conexion_PDO.php');
         
             $sql="SELECT nombres,apellidos FROM usuarios WHERE usuario= ?";
             $resultado=$base->prepare($sql);
@@ -148,7 +148,7 @@
                     </div>
                 </div>
             </nav>
-            <iframe src="Contenedor_alumno.php" name="base" scrolling="no" width="400px" height="500px" style="border:none;">
+            <iframe src="Contenedor_alumno.php" name="base" scrolling="no" width="100%" height="500px" style="border:none;">
             </iframe>
         </div>
     </div>

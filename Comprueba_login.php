@@ -9,7 +9,7 @@
 
 <?php
 try{
-    require_once('Conexion_DB.php');
+    require_once('Conexion/Conexion_PDO.php');
 
     $sql="SELECT * FROM usuarios WHERE usuario= :usuario AND password= :password";
     $resultado=$base->prepare($sql);
