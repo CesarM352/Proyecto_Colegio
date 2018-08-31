@@ -78,6 +78,8 @@
                 <li>
                     <a href="perfil/perfiles.php" target="base">
                         <i class="fa fa-book-open"></i> Perfiles</a>
+                    <a href="usuario/usuarios.php" target="base">
+                        <i class="fa fa-book-open"></i> Usuarios</a>
                     <a href="Alumno_cursos.php" target="base">
                         <i class="fa fa-book-open"></i> Cursos</a>
                     <a href="#">

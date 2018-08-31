@@ -22,6 +22,12 @@
     <?php
         try{
 
+            $perfil = 0;
+
+            if(isset($_GET["perfil"])){
+                $perfil = $_GET["perfil"];
+            }
+
             require_once('../../Conexion/Conexion_PDO.php');
 
                 //Para iniciar sesion con el usuario logueado
@@ -31,15 +37,20 @@
                 }
 
                 //Consulta para listar los cursos del usuario logueado
-                $sql="select * from perfil";
+                if($perfil == 0){
+                    $sql="select * from usuarios";
+                }
+                else{
+                    $sql="select * from usuarios where perfil_id= ".$perfil;
+                }
+                
                 $resultado=$base->prepare($sql);
                 $resultado->execute();
                 echo "<table class='table' style='text-align:center; width:40%; margin: 0 auto'>
                         <thead style='background-color:#FFA746;'>
                             <tr>
                                 <th>Id</th>
-                                <th>Perfil</th>
-                                <th>Ver usuarios</th>
+                                <th>Usuario</th>
                                 <th>Editar</th>
                                 <th>Eliminar</th>
                             </tr>
@@ -50,8 +61,7 @@
                     //var_dump($registro);
                     echo  "<tr>
                                 <td>".$registro['id']."</td>
-                                <td>".$registro['descripcion']."</td>
-                                <td><a href='../usuario/usuarios.php?perfil=".$registro['id']."'>Ver usuarios</a></td>
+                                <td>".$registro['usuario']."</td>
                                 <td><a href='editar.php?id=".$registro['id']."'> Editar </a></td>
                                 <td><a href='eliminar.php?id=".$registro['id']."'> Eliminar </a></td>
                             </tr>";
