@@ -148,7 +148,7 @@
                     </div>
                 </div>
             </nav>
-            <iframe src="Contenedor_alumno.php" name="base" scrolling="no" width="100%" height="500px" style="border:none;">
+            <iframe src="Contenedor_alumno.php" name="base" scrolling="auto" width="100%" height="100%" style="border:none">
             </iframe>
         </div>
     </div>
